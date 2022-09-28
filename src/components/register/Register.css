@@ -1,0 +1,28 @@
+.register{
+    width: 400px;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+    background-color: azure;
+}
+.register > input{
+    border: 1px solid black;
+    background-color:rgb(202, 202, 206);
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    font-size: 1rem;
+    width: 90%;
+}
+.register > .btn{
+    border: 1px solid black;
+    background-color:rgb(62, 60, 156);
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.25rem;
+  
+}
